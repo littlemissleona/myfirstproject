@@ -1,3 +1,4 @@
+//Prime number checker
 let nonPrimes = [];
 let primes = [];
 let num = 213;
